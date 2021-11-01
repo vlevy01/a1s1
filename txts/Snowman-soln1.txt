@@ -1,0 +1,22 @@
+
+ACTOR: "Ah, you poor sad smiling snowman,
+You'll be melting by and by."
+
+ACTOR: "What a pity,
+For I'd like to see July.
+Yes, I'd like to see July, and please don't ask me why.
+But I'd like to, yes I'd like to, oh I'd like to see July."
+
+ACTOR: "Seasons come and seasons go,
+And the greatest ice must crumble
+When it's flowers' time to grow.
+And as one thing is beginning
+So another thing must die,
+And there's never been a snowman
+Who has ever seen July.
+No they never see July, no matter how they try.
+No, they never ever, never ever, never see July."
+
+ACTOR: "At least I'll try."
+
+The End.

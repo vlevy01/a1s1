@@ -1,0 +1,235 @@
+
+ACTOR: "How I wish
+We had something to do!"
+
+ACTOR: "Why do you sit there like that?"
+
+ACTOR: "I know it is wet
+And the sun is not sunny.
+But we can have
+Lots of good fun that is funny!"
+
+ACTOR: "I know some good games we could play."
+
+ACTOR: "I know some new tricks."
+
+ACTOR: "A lot of good tricks.
+I will show them to you.
+Your mother
+Will not mind at all if I do."
+
+ACTOR: "No! No!
+Make that cat go away!
+Tell that Cat in the Hat
+You do NOT want to play.
+He should not be here.
+He should not be about.
+He should not be here
+When your mother is out!"
+
+ACTOR: "Now! Now! Have no fear.
+Have no fear!"
+
+ACTOR: "My tricks are not bad."
+
+ACTOR: "Why, we can have
+Lots of good fun, if you wish,
+With a game that I call
+UP-UP-UP with a fish!"
+
+ACTOR: "Put me down!"
+
+ACTOR: "This is no fun at all!
+Put me down!"
+
+ACTOR: "I do NOT wish to fall!"
+
+ACTOR: "Have no fear!"
+
+ACTOR: "I will not let you fall.
+I will hold you up high
+As I stand on a ball.
+With a book on one hand!
+And a cup on my hat!
+But that is not ALL I can do!"
+
+ACTOR: "Look at me!
+Look at me now!"
+
+ACTOR: "With a cup and a cake
+On the top of my hat!
+I can hold up TWO books!
+I can hold up the fish!
+And a little toy ship!
+And some milk on a dish!
+And look!
+I can hop up and down on the ball!
+But that is not all!
+Oh, no.
+That is not all ..."
+
+ACTOR: "Look at me!
+Look at me!
+Look at me now!
+It is fun to have fun
+But you have to know how.
+I can hold up the cup
+And the milk and the cake!
+I can hold up these books!
+And the fish on a rake!
+I can hold the toy ship
+And a little toy man!
+And look! With my tail
+I can hold a red fan!
+I can fan with the fan
+As I hop on the ball!
+But that is not all.
+Oh, no.
+That is not all ...."
+
+ACTOR: "Do I like this?
+Oh, no! I do not.
+This is not a good game."
+
+ACTOR: "No, I do not like it,
+Not one little bit!"
+
+ACTOR: "Now look what you did!"
+
+ACTOR: "Now look at this house!
+Look at this! Look at that!
+You sank our toy ship,
+Sank it deep in the cake.
+You shook up our house
+And you bent our new rake.
+You SHOULD NOT be here
+When our mother is not.
+You get out of this house!"
+
+ACTOR: "But I like to be here.
+Oh, I like it a lot!"
+
+ACTOR: "I will NOT go away.
+I do NOT wish to go!
+And so."
+
+ACTOR: "So
+so
+so ...
+I will show you
+Another good game that I know!"
+
+ACTOR: "Now look at this trick."
+
+ACTOR: "Take a look!"
+
+ACTOR: "I call this game FUN-IN-A-BOX."
+
+ACTOR: "In this box are two things
+I will show to your now.
+You will like these two things."
+
+ACTOR: "I will pick up the hook.
+You will see something new.
+Two things. And I call them
+Thing One and Thing Two.
+These Things will not bite you.
+They want to have fun."
+
+ACTOR: "How do you do?
+Would you like to shake hands
+With Thing One and Thing Two?"
+
+ACTOR: "No! No!
+Those Things should not be
+In this house! Make them go!"
+
+ACTOR: "They should not be here
+When your mother is not!
+Put them out! Put them out!"
+
+ACTOR: "Have no fear, little fish."
+
+ACTOR: "These Things are good Things."
+
+ACTOR: "They are tame. Oh, so tame!
+They have come here to play.
+They will give you some fun
+On this wet, wet, wet day."
+
+ACTOR: "Now, here is a game that they like."
+
+ACTOR: "They like to fly kites."
+
+ACTOR: "No! Not in the house!"
+
+ACTOR: "They should not fly kites
+In a house! They should not.
+Oh, the things they will bump!
+Oh, the things they will hit!
+Oh, I do not like it!
+Not one little bit!"
+
+ACTOR: "I do NOT like the way that they play!
+If Mother could see this,
+Oh, what would she say!"
+
+ACTOR: "Look! Look!"
+
+ACTOR: "Your mother is on her way home!
+Do you hear?
+Oh, what will she do to us?
+What will she say?
+Oh, she will not like it
+To find us this way!"
+
+ACTOR: "So, DO something! Fast!"
+
+ACTOR: "Do you hear!
+I saw her. Your mother!
+Your mother is near!
+So, as fast as you can,
+Think of something to do!
+You will have to get rid of
+Thing One and Thing Two!"
+
+ACTOR: "With my net
+I can get them I bet.
+I bet, with my net,
+I can get those Things yet!"
+
+ACTOR: "Now you do as I say.
+You pack up those Things
+And you take them away!"
+
+ACTOR: "Oh dear!"
+
+ACTOR: "You did not like our game ...
+Oh dear.
+What a shame!
+What a shame!
+What a shame!"
+
+ACTOR: "That is good."
+
+ACTOR: "He has gone away. Yes.
+But your mother will come.
+She will find this big mess!
+And this mess is so big
+And so deep and so tall,
+We can not pick it up.
+There is no way at all!"
+
+ACTOR: "Have no fear of this mess."
+
+ACTOR: "I always pick up all my playthings
+And so ...
+I will show you another
+Good trick that I know!"
+
+ACTOR: "That is that."
+
+ACTOR: "Did you have any fun?
+Tell me. What did you do?"
+
+The End.

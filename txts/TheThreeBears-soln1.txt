@@ -1,0 +1,64 @@
+
+ACTOR: "For,"
+
+ACTOR: "no doubt
+    If our friend should call in, he will find us all out."
+
+ACTOR: "To rob bears is no sin;
+    The three bears have gone out, so I think I'll go in."
+
+ACTOR: "That porridge,"
+
+ACTOR: "may stay long enough there,
+    It tastes like the food of the surly old bear,"
+
+ACTOR: "Mrs. B----,
+    I think your taste and my taste will never agree."
+
+ACTOR: "This is nice;
+    I will put in some salt, and of bread a thick slice."
+
+ACTOR: "This is Tiny-cub's chair, and oh, what will he say?
+    His papa is, I know, the most savage of bears,--
+    His mamma is a fury; but for her who cares?
+    I'm sure I do not; and then, as for her son,
+    That young bear, Tiny-cub--from him shall I run?
+    No, not I, indeed; but I will not sit here--
+    I shall next break the floor through--that's what I most fear;"
+
+ACTOR: "I'm hungry--to eat, let's begin--
+    WHO HAS BEEN TO MY PORRIDGE?"
+
+ACTOR: "WHO HAS BEEN TO MY PORRIDGE?"
+
+ACTOR: "WHO HAS BEEN TO MY PORRIDGE AND EATEN IT ALL?"
+
+ACTOR: "WHO HAS BEEN SITTING IN MY GREAT ARM CHAIR?"
+
+ACTOR: "WHO HAS BEEN SITTING IN MY GOOD ARM CHAIR?"
+
+ACTOR: "WHO HAS SAT IN MY NICE CHAIR, AND BROKEN IT DOWN?"
+
+ACTOR: "There!
+    See our pet Tiny-cub can look just like a bear,"
+
+ACTOR: "WHO HAS BEEN UPON MY BED?"
+
+ACTOR: "WHO HAS BEEN UPON MY BED?"
+
+ACTOR: "WHO IS LYING ON MY BED?"
+
+ACTOR: "Let me go, please, I'll soon run down stairs."
+
+ACTOR: "No!
+    You had no right to come hither, and now you shan't go.
+    What we mean to do with you, ere long you shall find;
+    You can lie there and cry till I make up my mind."
+
+ACTOR: "Go and block up the chimney and nail up the door;
+    This Goldenhair now has got into a scrape,
+    And if I can help it, she shall not escape."
+
+ACTOR: "Three bears, good-bye! Catch me now if you can!"
+
+The End.
