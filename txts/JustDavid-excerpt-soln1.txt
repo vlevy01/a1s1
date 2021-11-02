@@ -1,0 +1,23 @@
+
+ACTOR: "Father, are you there?"
+
+ACTOR: "Daddy, come! I've done the bacon all myself, and the potatoes and the
+coffee, too. Quick, it's all getting cold!"
+
+ACTOR: "David--it's my little son David!"
+
+ACTOR: "Of course it's David! Who else should it be?"
+
+ACTOR: "Come!"
+
+ACTOR: "Things aren't so nice as yours, father,"
+
+ACTOR: "I'm afraid
+I'm nothing but a discord in that orchestra to-day! Somehow, some of
+the stove was hotter than the rest, and burnt up the bacon in spots;
+and all the water got out of the potatoes, too,--though THAT didn't
+matter, for I just put more cold in. I forgot and left the milk in the
+sun, and it tastes bad now; but I'm sure next time it'll be better--all
+of it."
+
+The End.
