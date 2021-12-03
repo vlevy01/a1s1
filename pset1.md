@@ -1,7 +1,9 @@
 ## CS32 Act I, Scene I -- Programming Assignment
 
-*NOTE: The syllabus on the Canvas course page indicates when this assignment is
-due, what materials you should submit, and how to submit them.*
+*NOTE: The ["PSet #1" assignment page on the CS 32 Canvas
+site](https://canvas.harvard.edu/courses/97999/assignments/532779) on the Canvas
+course page indicates when this assignment is due, what materials you should
+submit, and how to submit them.*
 
 ### ### Big Picture
 

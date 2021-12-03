@@ -1,4 +1,4 @@
-my_open_book = open('CatInTheHat.txt')
+my_open_book = open('txts/CatInTheHat.txt')
 
 while True:
     the_line = my_open_book.readline()

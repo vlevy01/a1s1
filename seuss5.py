@@ -1,4 +1,4 @@
-with open('Hat.txt') as my_open_book:
+with open('txts/Hat.txt') as my_open_book:
     # Set our FSM to the start state
     looking_for_open_quote = True
 
