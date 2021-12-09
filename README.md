@@ -15,12 +15,3 @@ you write (i.e., `[title]-soln*.py`).
 Scene I. Please see the syllabus for when it is due.
 
 `read32.py`: The starter code for the programming assignment.
-
-`tester.py`: A simple testing script that you can run to see where
-your solution works correctly and where it fails. It uses
-`testread32.py`. You don't have to understand how any of this testing
-framework operates, although you will after Act I Scene II!
-
-**FIXME:** The framework of tests is incomplete for all steps in this
-weekly assignment, even though the testing code itself (I think) is
-complete.

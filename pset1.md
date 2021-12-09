@@ -22,20 +22,6 @@ practice in string processing. It also lays the foundation for later task we'll
 ask you to complete. (HINT: As you write this second part, think about the fact
 that you'll look at this code again in several weeks.)
 
-### ### Testing
-
-We have broken all parts and pieces of this assignment into several logical
-steps. Each step accomplishes an important piece of functionality, and it gives
-you a place to test your design and implementation. When you have some code that
-you'd like to test (i.e., at least at the end of each step), we encourage you to
-run the provided `tester.py` script. You invoke it by typing `python3 tester.py
-read32` or `python3 tester.py count32` for this assignment, depending on the
-part on which you're working. This script will run a suite of tests on your code
-and tell you which ones your script passed (and which it failed). Eventually,
-you'll want to pass all the built-in tests, but as you begin your code will only
-pass the first few. Please note that the tests may not cover every condition,
-but it will help you get started testing your code.
-
 ### ### Assignment, Part 1
 
 **Step 1. Covering all cases.** In our recent class, we realized that our state
