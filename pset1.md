@@ -5,7 +5,7 @@ site](https://canvas.harvard.edu/courses/97999/assignments/532779) on the Canvas
 course page indicates when this assignment is due, what materials you should
 submit, and how to submit them.*
 
-### ### Big Picture
+## ### Big Picture
 
 This assignment has two parts. In the first part, you'll extend and improve the
 Python script we wrote in class that converts a story into a theatrical script.
@@ -22,9 +22,11 @@ practice in string processing. It also lays the foundation for later task we'll
 ask you to complete. (HINT: As you write this second part, think about the fact
 that you'll look at this code again in several weeks.)
 
-### ### Assignment, Part 1
+## ### Assignment, Part 1
 
-**Step 1. Covering all cases.** In our recent class, we realized that our state
+### **Step 1. Covering all cases.**
+
+In our recent class, we realized that our state
 machine diagram consumed our input text *one character* at a time, but our first
 implementation of our script read the input text *one line* at a time. This
 caused a problem for any story line containing more than one double-quote
@@ -34,6 +36,8 @@ Hat*, it fails to do the right thing for any story with more than two
 double-quote characters within a file line. Your first task is to fix this
 problem to produce a script that correctly processes a story with *any number*
 of double-quote characters on a file line.
+
+**1.1 Read the current code.**
 
 To start, take a look at the script `read32.py`. It is nearly identical to
 `seuss6.py` that we developed together. The main difference between the two
@@ -58,12 +62,16 @@ now. It safely cleans up the execution state of your script so you don't
 encounter any strangeness. You probably feel everything is strange enough
 already!
 
+**1.2 Run the current script and identify the problems to fix.**
+
 Try running `python3 read32.py txts/Hat.txt`. It should successfully translate
 the original story into a (one-line) dramatic script. Now try `python3 read32.py
 txts/JustDavid-excerpt.txt`. The output doesn't match
 `txts/JustDavid-excerpt-soln1.txt` and if you look at the first place where your
 output and the solution text differ, you'll see that the missing dialogue begins
 with the third double-quote character on that file line.
+
+**1.3 Fix the problem!**
 
 To fix this problem, we ask that you continue to read the file a line at a time,
 but don't have the infinite `while` loop necessarily read a new file line on
@@ -81,7 +89,9 @@ reuse quite a bit of the control-flow structure of `read32.py`. And I always
 recommend drawing pictures of what `the_line` looks like in each section of your
 code to check your thinking.
 
-**Step 2. Commas to periods.** This step and the next clean up a few punctuation
+### **Step 2. Commas to periods.**
+
+This step and the next clean up a few punctuation
 rules that we use for dialogue contained in a story that do not make sense when
 these lines of dialogue are placed in a dramatic script. In particular, this
 step finds and changes lines of dialogue that end in a comma by replacing the
@@ -109,7 +119,9 @@ input `"I know some good games we could play,"`, and that it should print
 `ACTOR: "I know some good games we could play."`. Please don't forget to prepend
 a carriage-return character to the front of the printed line!
 
-**Step 3. Chatty characters.** The other grammatical oddity of dialogue in a
+### **Step 3. Chatty characters.**
+
+The other grammatical oddity of dialogue in a
 story is how we handle long pieces of dialogue that span multiple paragraphs. In
 literature, we elide the double-quote character that ends each paragraph of the
 long dialogue, but we include a double-quote character at the start of each
@@ -120,7 +132,7 @@ You can do this by adding one `elif` compound statement to the script you've
 created so far. HINT: Does your state machine diagram need a new state or a new
 transition?
 
-### ### Assignment, Part 2
+## **### Assignment, Part 2**
 
 It is now time to write your own script from scratch. Most of your life, you
 will probably find yourself modifying a script that you or someone else wrote.
@@ -226,7 +238,7 @@ specify whether the input comes from a file or from user input. The user will
 indicate this by invoking the script with or without, respectively, a filename
 on the command line.
 
-### ### Optional, Fun, Current-Event Reading
+## **### Optional, Fun, Current-Event Reading**
 
 "[Predictive text systems change what we write: Study explores the effects of
 autocomplete features on human
